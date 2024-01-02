@@ -25,13 +25,16 @@ import type2 from "./icons/type2.svg";
 import type3 from "./icons/type3.svg";
 import type4 from "./icons/type4.svg";
 import type5 from "./icons/type5.svg";
-
+import whiteLogo from "./icons/logo-white.svg";
 //images
 import cities from "./imgs/cities.png";
 import recommendation1 from "./imgs/recommendation1.jpg";
 import recommendation2 from "./imgs/recommendation2.jpg";
 import recommendation3 from "./imgs/recommendation3.jpg";
 import recommendation4 from "./imgs/recommendation4.jpg";
+import connect1 from "./imgs/connect1.jpg";
+import connect2 from "./imgs/connect2.jpg";
+import connect3 from "./imgs/connect3.jpg";
 
 export const Icons = {
   play,
@@ -60,6 +63,7 @@ export const Icons = {
   type3,
   type4,
   type5,
+  whiteLogo,
 };
 
 export const Images = {
@@ -68,4 +72,7 @@ export const Images = {
   recommendation2,
   recommendation3,
   recommendation4,
+  connect1,
+  connect2,
+  connect3,
 };

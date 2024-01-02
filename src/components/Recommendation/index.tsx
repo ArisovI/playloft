@@ -3,9 +3,9 @@ import { Images, Icons } from "../../assets";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import { Map } from "..";
-import "swiper/css";
-import Card from "../Card";
+import { Card } from "..";
 import { recommendationDate } from "../../types";
+import "swiper/css";
 
 const Recommendation = () => {
   const navigation = {

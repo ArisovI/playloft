@@ -2,7 +2,7 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import { recommendationDate } from "../../types";
-import Card from "../Card";
+import { Card } from "..";
 import { Icons } from "../../assets";
 
 const Kids = () => {

@@ -1,5 +1,12 @@
-import React from "react";
-import { Header, Kids, Main, Platforms, Recommendation } from "./components";
+import {
+  Connect,
+  Footer,
+  Header,
+  Kids,
+  Main,
+  Platforms,
+  Recommendation,
+} from "./components";
 
 const App = () => {
   return (
@@ -9,6 +16,8 @@ const App = () => {
       <Recommendation />
       <Platforms />
       <Kids />
+      <Connect />
+      <Footer />
     </div>
   );
 };
