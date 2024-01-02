@@ -19,7 +19,13 @@ import style2 from "./icons/style2.svg";
 import style3 from "./icons/style3.svg";
 import style4 from "./icons/style4.svg";
 import arrow from "./icons/arrow.svg";
-import play from './icons/play.svg'
+import play from "./icons/play.svg";
+import type1 from "./icons/type1.svg";
+import type2 from "./icons/type2.svg";
+import type3 from "./icons/type3.svg";
+import type4 from "./icons/type4.svg";
+import type5 from "./icons/type5.svg";
+
 //images
 import cities from "./imgs/cities.png";
 import recommendation1 from "./imgs/recommendation1.jpg";
@@ -49,6 +55,11 @@ export const Icons = {
   style4,
   arrow,
   star,
+  type1,
+  type2,
+  type3,
+  type4,
+  type5,
 };
 
 export const Images = {

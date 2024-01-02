@@ -11,6 +11,9 @@ module.exports = {
         gray: "#676E74",
         pink: "#7C68CB",
       },
+      boxShadow: {
+        platform: "0px 4px 33px 0px rgba(208, 214, 236, 0.25)",
+      },
     },
   },
   plugins: [],
